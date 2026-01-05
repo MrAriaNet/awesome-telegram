@@ -115,6 +115,7 @@ Challenge your friends in MULTIPLAYER mode!
  * [pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Python client library framework for users and bots.
  * [Folds](https://github.com/tm-a-t/folds) - An elegant and scalable framework for bots.
  * [Raito](https://github.com/Aidenable/Raito) - Core tools for aiogram 3.x bots: hot-reload, lifespan, roles, pagination, dev utilities and more.
+ * [Teledigest](https://github.com/igoropaniuk/teledigest) – A LLM-driven framework for building Telegram digest and channel-analysis bots.
 
 #### Javascript/Typescript/Node
  * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) – Telegram Bot API for Node.js
@@ -240,6 +241,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [geeksChannel](https://telegram.me/geeksChannel) – Join the telegram Army.
 * [The Devs](https://t.me/thedevs) - The Devs community on Telegram.
 * [Coding at Night](https://t.me/codingatnight) - Daily news, articles & tools pertaining to programming and technology.
+* [Code Stars](https://t.me/code_stars) - Code Stars highlights the most popular GitHub repos from the last hour, helping you discover innovative projects early.
 * [Elixir Formula](https://t.me/elixir_formula) - Telegram channel for elixir developers and other people who interested in Elixir-lang.
 * [Agile Methods](https://t.me/agilemethods) - Books, blog posts, conferences and much more about agile methods.
 * [Engineer Addict](https://t.me/EngineerAddict) - Channel for those who interested in electronics and engineering.
@@ -272,6 +274,27 @@ Challenge your friends in MULTIPLAYER mode!
   * [/r/TelegramStickersShare](https://www.reddit.com/r/TelegramStickersShare): Stickers subreddit.
   * [/r/TelegramBots](https://www.reddit.com/r/TelegramBots): Bots subreddit.
 * [Telegram Developers Community](http://dev.storebot.me)
+
+
+## Security
+
+### AI Security
+
+* [PWN AI](https://t.me/pwnai) – (RU) Practical AI Security and MLSecOps: how to apply AI in security engineering, how AI breaks, and how to defend it. Strong focus on LLM security, agents, guardrails, real-world threats
+* [Борис_ь с ml](https://t.me/borismlsec)  – (RU) Machine Learning + Information Security: author blends ML, data science and cyber/AI security; long-form analyses, conference recaps, and practical viewpoints from a vendor-side security practitioner and methodologist.
+* [Евгений Кокуйкин — Raft](https://t.me/kokuykin) – (RU) Building Raft AI and GPT-based applications. A lot of hands-on posts on building products with LLMs, including trust & safety, reliability and security concerns.
+* [LLM Security](https://t.me/llmsecurity) – (RU) Focused on LLM security: jailbreaks, prompt injection, adversarial attacks, benchmarks, defenses for LLM-based apps and agents. Good for monitoring the global LLM security landscape.
+* [AISecHub](https://t.me/AISecHub) – (EN) Global AI security hub: curated research, articles, reports and tools across adversarial ML, LLM security and AI governance. Strong link to the broader AISecHub ecosystem.
+* [AI Security Lab](https://t.me/aisecuritylab) – (RU) “We hack AI so others cannot.” Laboratory by Raft x ITMO University x AI Talent Hub. Mix of course materials, research and hands-on case studies on breaking and defending AI systems.
+* [ML&Sec Feed](https://t.me/mlsecfeed) – (RU) Aggregated feed for ML & security: news, tools, research links across ML security, LLM safety, privacy and classic infosec. Good “signal booster” for the ecosystem.
+* [AISec [x\_feed]](https://t.me/aisecnews) – (RU/EN) Digest of AI security content from X, blogs and papers, without paywalls. Built for executives, MLSecOps and AI security experts who need material for decks and reports.
+* [AI SecOps](https://t.me/aisecops) – (RU) AI Security Operations: materials, links and events around operating AI systems securely in production (monitoring, incident response, SIEM/SOC integrations, etc.)
+* [OK ML](https://t.me/okmlai) – (RU) ML/DS/AI channel with explicit focus on repositories, tools and vulnerabilities in ML systems. Bridges classic ML engineering and ML security topics.
+* [AI Attacks](https://t.me/aiattacks) – (EN) Stream of AI attack examples and threat intelligence: adversarial ML, LLM jailbreak demos, malicious AI use-cases, attack tooling.
+* [Poxek AI](https://t.me/poxek_ai) – (RU) Content at the intersection of pentesting and AI/LLM security.
+* [AISecurilka](https://t.me/aisecurilka) – (RU) Niche AI security channel. Emerging space for short notes, links and experiments around AI/LLM security (description to be refined as it grows).
+* [AGI Security](https://t.me/agisec) – (EN) “Artificial General Intelligence Security” — discussions and links around long-term AGI security, safety and existential-risk-flavoured topics.
+* [paranoAISecure](https://t.me/paranoAISecure) – (RU/EN) Experimental channel on “healthy paranoia” for AI systems: threat modeling, secure design patterns, operational practices for AI security (early-stage, description to be clarified).
 
 ## License
 
